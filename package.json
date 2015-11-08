@@ -1,0 +1,40 @@
+{
+  "name": "TweetNLP",
+  "version": "1.0.0",
+  "description": "Nodejs wrapper for Ark Tweet NLP. ",
+  "main": "tweetnlp.js",
+  "scripts": {
+    "test": "jasmine-node spec/*Spec.js"
+  },
+  "keywords" : [
+    "nlp tweet",
+    "tweet nlp",
+    "ark nlp",
+    "arktweet nlp",
+    "nlp",
+    "twitter nlp",
+    "tweet pos",
+    "arktweet"
+  ],
+  "author": "Milos Bejda <mbejda@live.com> (mbejda.com)",
+  "license": "MIT",
+  "scripts": {
+    "test": "jasmine-node spec/*Spec.js"
+  },
+  "dependencies": {
+    "java": "0.6.0"
+  }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbejda/Node-Ark-TweetNLP.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mbejda/Node-Ark-TweetNLP/issues"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
+
+
+
